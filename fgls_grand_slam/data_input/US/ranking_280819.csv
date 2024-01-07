@@ -1,0 +1,559 @@
+Pos.;Giocatore;Nazione;Punti;+/- pos.;+/- punti
+1;Novak Djokovic;SRB;11685;0;0
+2;Rafael Nadal;ESP;7945;0;0
+3;Roger Federer;SUI;6950;0;0
+4;Dominic Thiem;AUT;4925;0;0
+5;Daniil Medvedev;RUS;4125;0;-70
+6;Alexander Zverev;GER;4005;0;0
+7;Kei Nishikori;JPN;4005;0;0
+8;Stefanos Tsitsipas;GRE;3455;0;0
+9;Karen Khachanov;RUS;2890;0;0
+10;Roberto Bautista Agut;ESP;2575;0;0
+11;Fabio Fognini;ITA;2510;0;0
+12;Borna Coric;CRO;2160;0;0
+13;Gael Monfils;FRA;2140;0;0
+14;John Isner;USA;2075;0;0
+15;David Goffin;BEL;2055;0;0
+16;Juan Martin Del Potro;ARG;2050;0;0
+17;Kevin Anderson;RSA;2050;0;0
+18;Nikoloz Basilashvili;GEO;1985;0;0
+19;Felix Auger Aliassime;CAN;1750;0;0
+20;Guido Pella;ARG;1735;0;0
+21;Diego Sebastian Schwartzman;ARG;1725;0;0
+22;Milos Raonic;CAN;1630;0;0
+23;Marin Cilic;CRO;1590;0;0
+24;Stan Wawrinka;SUI;1535;0;0
+25;Matteo Berrettini;ITA;1535;0;0
+26;Benoit Paire;FRA;1508;4;105
+27;Lucas Pouille;FRA;1475;-1;0
+28;Taylor Harry Fritz;USA;1465;-1;0
+29;Dusan Lajovic;SRB;1441;-1;0
+30;Nick Kyrgios;AUS;1430;-1;0
+31;Kyle Edmund;GBR;1325;0;0
+32;Christian Garin;CHI;1321;0;0
+33;Denis Shapovalov;CAN;1310;5;70
+34;Fernando Verdasco;ESP;1310;-1;0
+35;Hubert Hurkacz;POL;1308;6;230
+36;Richard Gasquet;FRA;1280;-2;0
+37;Jan-Lennard Struff;GER;1280;-2;0
+38;Alex De Minaur;AUS;1270;-2;0
+39;Laslo Djere;SRB;1245;-2;0
+40;Gilles Simon;FRA;1240;-1;0
+41;Radu Albot;MDA;1137;-1;0
+42;Reilly Opelka;USA;1076;0;0
+43;Andrey Rublev;RUS;1066;4;35
+44;Joao Sousa;POR;1061;-1;0
+45;Frances Tiafoe;USA;1060;7;45
+46;Sam Querrey;USA;1055;0;20
+47;Mikhail Kukushkin;KAZ;1041;-3;0
+48;Pierre-Hugues Herbert;FRA;1038;-3;0
+49;Lorenzo Sonego;ITA;1029;-1;3
+50;Miomir Kecmanovic;SRB;1026;-1;4
+51;Albert Ramos-Vinolas;ESP;1019;-1;0
+52;Filip Krajinovic;SRB;1018;-1;0
+53;Pablo Cuevas;URU;1013;0;0
+54;Casper Ruud;NOR;980;0;4
+55;Jordan Thompson;AUS;976;0;0
+56;Juan Ignacio Londero;ARG;970;0;0
+57;Adrian Mannarino;FRA;961;0;0
+58;Daniel Evans;GBR;955;0;0
+59;Yoshihito Nishioka;JPN;946;0;0
+60;John Millman;AUS;936;1;25
+61;Feliciano Lopez;ESP;923;2;20
+62;Cameron Norrie;GBR;915;-2;0
+63;Ugo Humbert;FRA;909;-1;0
+64;Marton Fucsovics;HUN;885;1;0
+65;Jo-Wilfried Tsonga;FRA;885;1;0
+66;Marco Cecchinato;ITA;880;1;0
+67;Federico Delbonis;ARG;869;1;0
+68;Richard Berankis;LTU;857;2;0
+69;Pablo Carreno-Busta;ESP;852;-5;-45
+70;Pablo Andujar;ESP;850;1;3
+71;Philipp Kohlschreiber;GER;831;1;0
+72;Tennys Sandgren;USA;826;1;0
+73;Nicolas Jarry;CHI;820;-4;-45
+74;Jeremy Chardy;FRA;815;0;0
+75;Alexander Bublik;KAZ;808;0;0
+76;Roberto Carballes Baena;ESP;787;0;0
+77;Andreas Seppi;ITA;735;0;-10
+78;Grigor Dimitrov;BUL;722;0;0
+79;Ivo Karlovic;CRO;694;0;0
+80;Aljaz Bedene;SLO;685;0;0
+81;Stefano Travaglia;ITA;672;0;0
+82;Corentin Moutet;FRA;650;1;0
+83;Martin Klizan;SVK;619;1;0
+84;Hugo Dellien;BOL;618;1;0
+85;Bernard Tomic;AUS;617;1;0
+86;Steve Johnson;USA;610;-4;-60
+87;Thomas Fabbiano;ITA;610;0;0
+88;Prajnesh Gunneswaran;IND;610;1;10
+89;Peter Gojowczyk;GER;604;-1;0
+90;Soon-Woo Kwon;KOR;599;0;0
+91;Marcel Granollers;ESP;576;0;0
+92;Brayden Schnur;CAN;568;0;0
+93;Marius Copil;ROU;562;3;10
+94;Kamil Majchrzak;POL;557;0;0
+95;Leonardo Mayer;ARG;555;-2;-10
+96;Mackenzie Mcdonald;USA;555;-1;0
+97;Jaume Antoni Munar Clar;ESP;550;0;0
+98;Tomas Berdych;CZE;540;3;10
+99;Damir Dzumhur;BIH;535;6;15
+100;Lloyd Harris;RSA;535;-1;0
+101;Thiago Moura Monteiro;BRA;532;-1;0
+102;Salvatore Caruso;ITA;528;0;0
+103;Malek Jaziri;TUN;526;0;0
+104;Antoine Hoang;FRA;524;-6;-12
+105;Alexei Popyrin;AUS;521;1;3
+106;Guido Andreozzi;ARG;509;-2;-15
+107;Mikael Ymer;SWE;505;0;0
+108;Bradley Klahn;USA;503;0;0
+109;Gregoire Barrere;FRA;496;0;0
+110;Matthew Ebden;AUS;491;0;0
+111;Denis Kudla;USA;491;0;0
+112;Dennis Novak;AUT;488;2;0
+113;Matthias Bachinger;GER;484;2;0
+114;Tommy Paul;USA;482;-2;-8
+115;Norbert Gombos;SVK;482;1;0
+116;Elias Ymer;SWE;475;2;0
+117;Bjorn Fratangelo;USA;474;2;7
+118;Dominik Koepfer;GER;474;-5;-16
+119;Henri Laaksonen;SUI;462;1;0
+120;Jason Jung;TPE;457;1;0
+121;Yannick Maden;GER;450;1;0
+122;Evgeny Donskoy;RUS;443;1;0
+123;Ernests Gulbis;LAT;442;1;0
+124;Andrej Martin;SVK;442;13;48
+125;Pedro Sousa;POR;436;0;0
+126;Alejandro Davidovich Fokina;ESP;434;0;0
+127;Blaz Rola;SLO;416;0;0
+128;Lorenzo Giustino;ITA;413;0;0
+129;Egor Gerasimov;BLR;406;0;0
+130;Attila Balazs;HUN;401;0;0
+131;James Duckworth;AUS;400;1;0
+132;Tatsuma Ito;JPN;397;1;0
+133;Yuichi Sugita;JPN;397;1;0
+134;Alex Bolt;AUS;396;1;0
+135;Paolo Lorenzi;ITA;396;1;0
+136;Taro Daniel;JPN;395;-19;-84
+137;Jannik Sinner;ITA;395;-6;-5
+138;Kimmer Coppejans;BEL;393;0;0
+139;Denis Istomin;UZB;392;0;0
+140;Jiri Vesely;CZE;385;0;0
+141;Yasutaka Uchiyama;JPN;381;0;0
+142;Gianluca Mager;ITA;381;0;0
+143;Robin Haase;NED;376;11;20
+144;Ilya Ivashka;BLR;376;-1;0
+145;Federico Gaio;ITA;375;-1;0
+146;Filippo Baldi;ITA;375;-1;0
+147;Sergiy Stakhovsky;UKR;371;-1;0
+148;Nikola Milojevic;SRB;368;-1;0
+149;Viktor Troicki;SRB;363;-1;0
+150;Alessandro Giannessi;ITA;363;-1;0
+151;Marcos Giron;USA;361;4;5
+152;Lukas Rosol;CZE;361;-2;0
+153;Pedro Martinez Portero;ESP;358;-1;0
+154;David Ferrer;ESP;355;2;0
+155;Go Soeda;JPN;344;2;0
+156;Marc Polmans;AUS;344;2;0
+157;Federico Coria;ARG;343;-4;-14
+158;Nicolas Mahut;FRA;342;1;0
+159;Oscar Otte;GER;342;1;0
+160;Rudolf Molleker;GER;340;1;0
+161;Quentin Halys;FRA;340;1;0
+162;Marcos Baghdatis;CYP;339;1;0
+163;Dustin Brown;GER;338;1;0
+164;Facundo Bagnis;ARG;336;1;0
+165;Guillermo Garcia-Lopez;ESP;326;1;-3
+166;Dudi Sela;ISR;325;1;0
+167;Sebastian Ofner;AUT;324;1;0
+168;Mats Moraing;GER;316;1;0
+169;Enzo Couacaud;FRA;314;1;0
+170;Hyeon Chung;KOR;313;-19;-45
+171;Emilio Gomez;ECU;310;0;0
+172;Facundo Arguello;ARG;303;0;0
+173;Mikael Torpegaard;DEN;298;0;0
+174;Mitchell Krueger;USA;290;0;0
+175;Steven Diez;CAN;287;0;0
+176;Maxime Janvier;FRA;286;0;0
+177;Ramkumar Ramanathan;IND;284;0;0
+178;Jack Sock;USA;280;0;0
+179;Darian King;BAR;278;0;0
+180;Roberto Marcora;ITA;277;0;0
+181;Ruben Bemelmans;BEL;273;0;0
+182;Yannick Hanfmann;GER;269;0;0
+183;Alexey Vatutin;RUS;269;0;0
+184;Tommy Robredo;ESP;268;0;0
+185;Joao Domingues;POR;268;0;0
+186;Steve Darcis;BEL;266;0;0
+187;Jay Clarke;GBR;265;0;0
+188;Christopher Eubanks;USA;265;0;0
+189;Filip Horansky;SVK;265;0;0
+190;Sumit Nagal;IND;264;0;0
+191;Nicola Kuhn;GER;261;0;0
+192;Peter Polansky;CAN;259;0;0
+193;Adrian Menendez-Maceiras;ESP;257;0;0
+194;Tallon Griekspoor;NED;253;0;0
+195;Noah Rubin;USA;251;0;0
+196;Michael Mmoh;USA;247;1;0
+197;Donald Young;USA;245;1;0
+198;Andrew Harris;AUS;245;-2;-6
+199;Carlos Berlocq;ARG;243;0;0
+200;Rogerio Dutra Da Silva;BRA;241;0;0
+201;Constant Lestienne;FRA;241;0;0
+202;Mario Vilella Martinez;ESP;241;0;0
+203;Thanasi Kokkinakis;AUS;239;0;0
+204;Thai Kwiatkowski;USA;239;0;0
+205;Marco Trungelliti;ARG;237;0;0
+206;Ernesto Escobedo;USA;237;0;0
+207;Daniel Elahi Galan;COL;236;0;0
+208;Duckhee Lee;KOR;236;4;10
+209;Emil Ruusuvuori;FIN;234;-1;0
+210;Pedja Krstin;SRB;234;-1;0
+211;Joao Menezes;BRA;233;-1;0
+212;Stefano Napolitano;ITA;231;-1;0
+213;Hiroki Moriya;JPN;225;0;0
+214;Jason Murray Kubler;AUS;224;0;0
+215;Maximilian Marterer;GER;218;0;0
+216;Vasek Pospisil;CAN;214;0;0
+217;Lukas Lacko;SVK;213;0;0
+218;Mirza Basic;BIH;213;0;0
+219;Andrea Collarini;ARG;213;87;80
+220;Enrique Lopez-Perez;ESP;213;-1;0
+221;Christopher O'Connell;AUS;213;-1;0
+222;Yan Bai;CHN;212;-1;0
+223;Maxime Cressy;FRA;212;-1;0
+224;Viktor Galovic;CRO;211;-1;0
+225;Zhe Li;CHN;209;-1;0
+226;Aleksandr Nedovesov;KAZ;207;-1;0
+227;Elliot Benchetrit;FRA;202;-1;0
+228;Gleb Sakharov;FRA;202;-1;0
+229;Yosuke Watanuki;JPN;202;-1;0
+230;Roman Safiullin;RUS;202;-1;0
+231;Tobias Kamke;GER;201;-1;0
+232;Santiago Giraldo;COL;200;-1;0
+233;Mohamed Safwat;EGY;200;-1;0
+234;Bernabe Zapata Miralles;ESP;196;-1;0
+235;Mathias Bourgue;FRA;195;-1;0
+236;Dmitry Popko;KAZ;194;26;29
+237;Max Purcell;AUS;191;-2;0
+238;Alejandro Tabilo;CHI;191;-2;0
+239;Blaz Kavcic;SLO;190;-2;0
+240;Matteo Viola;ITA;189;-2;0
+241;John-Patrick Smith;AUS;187;-2;0
+242;Roberto Ortega-Olmedo;ESP;186;-1;0
+243;Akira Santillan;AUS;183;-1;0
+244;Arthur De Greef;BEL;182;-1;0
+245;Evgeny Karlovskiy;RUS;181;-1;0
+246;Roberto Quiroz;ECU;181;-1;0
+247;Danilo Petrovic;SRB;180;-1;0
+248;Tristan Lamasine;FRA;179;-1;0
+249;Saketh-Sai Myneni;IND;178;-1;0
+250;Pavel Kotov;RUS;178;5;6
+251;Liam Broady;GBR;178;-2;0
+252;Jose Hernandez-Fernandez;DOM;178;-2;0
+253;Pedro Cachin;ARG;177;-2;0
+254;Carlos Taberner;ESP;173;33;29
+255;Lucas Miedler;AUT;173;-3;0
+256;Cedrik-Marcel Stebe;GER;172;-3;0
+257;Thomaz Bellucci;BRA;172;-3;0
+258;Aleksandar Vukic;AUS;172;16;15
+259;Kaichi Uchida;JPN;171;-3;0
+260;Janko Tipsarevic;SRB;170;-3;0
+261;Cem Ilkel;TUR;170;-3;0
+262;Francisco Cerundolo;ARG;169;13;13
+263;Yunseong Chung;KOR;168;-4;0
+264;Aslan Karatsev;RUS;167;-4;0
+265;Goncalo Oliveira;POR;166;-4;0
+266;Facundo Mena;ARG;165;5;6
+267;Simone Bolelli;ITA;163;-4;0
+268;Uladzimir Ignatik;BLR;163;-4;0
+269;Tung-Lin Wu;TPE;162;-4;0
+270;Gian Marco Moroni;ITA;162;-4;0
+271;Nino Serdarusic;CRO;162;-4;0
+272;Alexandre Muller;FRA;160;-4;0
+273;Renzo Olivo;ARG;160;-4;0
+274;Raul Brancaccio;ITA;160;-4;0
+275;Julian Lenz;GER;158;-3;0
+276;Javier Barranco Cosano;ESP;158;-3;0
+277;Baptiste Crepatte;FRA;154;-1;0
+278;Markus Eriksson;SWE;153;-1;0
+279;Jeff Wolf;USA;152;-1;0
+280;Marcelo Tomas Barrios Vera;CHI;152;-1;0
+281;James Ward;GBR;151;-1;0
+282;Frederico Ferreira Silva;POR;150;2;1
+283;Jc Aragone;USA;150;-1;0
+284;Zdenek Kolar;CZE;150;-1;0
+285;Sasi Kumar Mukund;IND;148;0;0
+286;Kenny de Schepper;FRA;146;0;0
+287;Matias Franco Descotte;ARG;142;1;0
+288;Ryan Harrison;USA;141;-48;-45
+289;Sandro Ehrat;SUI;141;0;0
+290;Jan Choinski;GER;141;0;0
+291;Marc-Andrea Huesler;SUI;141;14;7
+292;Sadio Doumbia;FRA;141;-1;0
+293;Mischa Zverev;GER;140;-1;0
+294;Dimitar Kuzmanov;BUL;140;-1;0
+295;Andrea Arnaboldi;ITA;139;-1;0
+296;Sebastian Korda;USA;139;-1;0
+297;Tsung-Hua Yang;TPE;139;-1;0
+298;Ji Sung Nam;KOR;138;-1;0
+299;Filip Peliwo;CAN;138;-1;0
+300;Manuel Guinard;FRA;138;-1;0
+301;Marcelo Arevalo;ESA;137;-1;0
+302;Luca Vanni;ITA;136;-1;0
+303;Alex Molcan;SVK;136;-1;0
+304;Shuichi Sekiguchi;JPN;135;-1;0
+305;Benjamin Hassan;LIB;135;-1;0
+306;Corentin Denolly;FRA;135;2;3
+307;Roberto Cid Subervi;DOM;134;32;20
+308;Jelle Sels;NED;133;-1;0
+309;Peter Torebko;GER;132;7;6
+310;Jeremy Jahn;GER;130;-29;-20
+311;Jurij Rodionov;AUT;130;-2;0
+312;Tim Smyczek;USA;129;-2;0
+313;Gianluigi Quinzi;ITA;129;2;3
+314;Daniel Gimeno-Traver;ESP;129;-3;0
+315;Oriol Roca Batalla;ESP;129;-3;0
+316;Collin Altamirano;USA;126;-2;0
+317;Borna Gojo;CRO;124;7;3
+318;Daniel Masur;GER;124;0;0
+319;Maverick Banes;AUS;123;0;0
+320;Lukas Klein;SVK;122;-7;-6
+321;Viktor Durasovic;NOR;122;-4;-2
+322;Andrea Pellegrino;ITA;122;-1;0
+323;Shintaro Imai;JPN;122;-1;0
+324;Jeroen Vanneste;BEL;122;-1;0
+325;Igor Sijsling;NED;121;0;0
+326;Daniel Brands;GER;121;0;0
+327;Roy Smith;USA;121;0;0
+328;Andy Murray;GBR;120;1;0
+329;Geoffrey Blancaneaux;FRA;120;1;0
+330;Evan King;USA;120;1;0
+331;Sebastian Fanselow;GER;117;2;0
+332;Denis Yevseyev;KAZ;117;3;2
+333;Tak Khunn Wang;FRA;116;1;0
+334;Arthur Rinderknech;FRA;116;-14;-7
+335;Konstantin Kravchuk;RUS;115;-3;-4
+336;Riccardo Bonadio;ITA;115;0;0
+337;Thiago Seyboth Wild;BRA;114;5;1
+338;Hugo Grenier;FRA;114;-1;0
+339;Karim-Mohamed Maamoun;EGY;114;-1;0
+340;Skander Mansouri;TUN;114;0;0
+341;Altug Celikbilek;TUR;113;0;0
+342;Botic Van De Zandschulp;NED;113;1;0
+343;Johan Sebastien Tatlot;FRA;112;3;0
+344;Brydan Klein;GBR;112;3;0
+345;Christopher Heyman;BEL;111;-1;-2
+346;Gijs Brouwer;NED;111;2;0
+347;Juan Pablo Ficovich;ARG;110;16;6
+348;Jack Draper;GBR;109;4;0
+349;Kevin Krawietz;GER;109;4;0
+350;Michael Redlicki;USA;109;4;0
+351;Evan Hoyt;GBR;109;0;-1
+352;Teimuraz Gabashvili;RUS;109;7;2
+353;Yuta Shimizu;JPN;108;2;0
+354;Ze Zhang;CHN;108;2;0
+355;Christian Lindell;SWE;108;-5;-2
+356;Harry Bourchier;AUS;107;1;0
+357;Chun Hsin Tseng;TPE;106;3;0
+358;Ivan Nedelko;RUS;106;3;0
+359;Gastao Elias;POR;105;3;0
+360;Ivan Gakhov;RUS;104;-11;-7
+361;Peter Heller;GER;104;-16;-9
+362;Jozef Kovalik;SVK;102;2;0
+363;Gonzalo Escobar;ECU;102;9;3
+364;Zsombor Piros;HUN;102;1;0
+365;Sanjar Fayziev;UZB;102;2;1
+366;Louis Wessels;GER;102;0;0
+367;Fabrizio Ornago;ITA;102;1;1
+368;Sekou Bangoura;USA;101;-40;-20
+369;Tomas Machac;CZE;100;0;0
+370;Andres Artunedo Martinavarr;ESP;100;1;0
+371;Frederico Gil;POR;100;9;5
+372;Jacob Grills;AUS;99;1;0
+373;Benjamin Bonzi;FRA;98;2;0
+374;Luke Saville;AUS;97;-4;-3
+375;Jules Okala;FRA;97;1;0
+376;Johannes Haerteis;GER;97;36;15
+377;Lloyd Glasspool;GBR;97;0;0
+378;Tim Van Rijthoven;NED;96;0;0
+379;Dragos Dima;ROU;95;-5;-3
+380;Khumoun Sultanov;UZB;95;4;3
+381;Pedro Sakamoto;BRA;95;-23;-12
+382;Scott Griekspoor;NED;95;3;3
+383;Laurent Lokoli;FRA;94;-1;1
+384;Adam Pavlasek;CZE;94;-3;0
+385;Hugo Gaston;FRA;92;-2;0
+386;Evgeny Tyurnev;RUS;92;0;0
+387;Felipe Meligeni Rodrigues Alves;BRA;92;0;0
+388;Vit Kopriva;CZE;92;0;0
+389;Orlando Luz;BRA;90;1;0
+390;Nikolas Sanchez-Izquierdo;ESP;90;15;5
+391;Ryan Shane;USA;89;0;0
+392;Guilherme Clezar;BRA;89;39;15
+393;Gonzalo Villanueva;ARG;89;-1;0
+394;Jenson Brooksby;USA;88;-1;0
+395;Fajing Sun;CHN;88;-1;0
+396;Andrea Vavassori;ITA;88;8;3
+397;Zhizhen Zhang;CHN;88;-2;0
+398;Martin Cuevas;URU;88;-2;0
+399;Juan Pablo Varillas;PER;88;-2;0
+400;Ryan Peniston;GBR;88;-2;0
+401;Carlos Boluda-Purkiss;ESP;88;-2;0
+402;Tomislav Brkic;BIH;87;-2;0
+403;Alessandro Bega;ITA;87;-2;0
+404;Laurynas Grigelis;LTU;86;-1;0
+405;Hernan Casanova;ARG;86;-3;0
+406;Eduard Esteve Lobato;ESP;86;-27;-10
+407;Kevin King;USA;86;1;3
+408;Matteo Martineau;FRA;84;-2;0
+409;Maxime Hamou;FRA;83;-2;0
+410;Nicolas Alvarez;PER;83;50;17
+411;Yibing Wu;CHN;82;-1;0
+412;Jacopo Berrettini;ITA;82;-1;0
+413;Tom Jomby;FRA;81;0;0
+414;Ulises Blanch;USA;81;33;12
+415;Evan Furness;FRA;81;-6;-2
+416;Pol Toledo Bague;ESP;81;0;1
+417;Hugo Nys;FRA;80;-3;0
+418;Youssef Hossam;EGY;80;-29;-10
+419;Enrico Dalla Valle;ITA;80;-4;0
+420;Alexander Ritschard;SUI;79;-2;0
+421;Maxime Chazal;FRA;79;-2;0
+422;Jurgen Melzer;AUT;78;-2;0
+423;Alexander Sarkissian;USA;78;16;6
+424;Colin Sinclair;AUS;78;-3;0
+425;Bastian Malla;CHI;77;-2;0
+426;Martin Redlicki;USA;77;-4;-1
+427;Rio Noguchi;JPN;77;-3;0
+428;Vaclav Safranek;CZE;77;-3;0
+429;Jordi Arconada;ARG;77;-3;0
+430;Illya Marchenko;UKR;76;-3;0
+431;Jurgen Zopp;EST;76;15;7
+432;Nicolas Mejia;COL;76;-4;0
+433;Artem Dubrivnyy;RUS;75;-4;0
+434;Mathieu Perchicot;FRA;75;3;2
+435;Antoine Escoffier;FRA;74;-5;0
+436;Alvaro Lopez San Martin;ESP;73;-19;-6
+437;Agustin Velotti;ARG;73;-5;0
+438;Martins Podzus;LAT;73;-5;0
+439;Evan Song;USA;73;5;3
+440;Julian Ocleppo;ITA;73;-5;0
+441;Francesco Forti;ITA;73;-5;0
+442;Gregoire Jacq;FRA;72;-4;0
+443;Yannick Mertens;BEL;72;-9;-1
+444;Diego Hidalgo;ECU;72;-4;0
+445;Mate Valkusz;HUN;71;32;10
+446;Edan Leshem;ISR;71;-5;0
+447;Jordan Correia Passos Do Carmo;BRA;71;-5;0
+448;Antoine Cornut-Chauvinc;FRA;71;-5;0
+449;Aziz Dougaz;TUN;70;7;2
+450;Daniel Altmaier;GER;69;-2;0
+451;Alexander Erler;AUT;69;-2;0
+452;Lucas Gerch;GER;69;-1;0
+453;Jan Satral;CZE;68;-1;0
+454;Miljan Zekic;SRB;68;-1;0
+455;Camilo Ugo Carabelli;ARG;68;9;3
+456;Nik Razborsek;SLO;68;-1;0
+457;Tomas Martin Etcheverry;ARG;68;0;0
+458;Oscar Jose Gutierrez;BRA;68;42;10
+459;Dayne Kelly;AUS;67;11;4
+460;Alen Avidzba;RUS;67;23;6
+461;Michail Pervolarakis;GRE;67;-2;0
+462;Alexander Zhurbin;RUS;67;1;1
+463;Michael Geerts;BEL;66;-5;-1
+464;Lucas Catarina;MON;66;-2;0
+465;Quentin Robert (1994);REU;65;0;0
+466;Matias Zukas;ARG;65;-21;-5
+467;Dan Added;FRA;65;-17;-4
+468;Matteo Donati;ITA;64;-2;0
+469;Daniel Nguyen;USA;64;35;9
+470;Giulio Zeppieri;ITA;64;-3;0
+471;Renta Tokuda;JPN;64;-3;0
+472;Ronald Slobodchikov;RUS;64;-3;0
+473;Sho Shimabukuro;JPN;63;42;10
+474;Pablo Vivero Gonzalez;ESP;63;4;2
+475;David Perez Sanz;ESP;63;-4;0
+476;Di Wu;CHN;63;-4;0
+477;Marko Miladinovic;SRB;63;31;8
+478;Maximiliano Estevez;ARG;63;8;3
+479;Vladyslav Orlov;UKR;63;35;9
+480;Aidan Mchugh;GBR;63;-19;-3
+481;Joao Souza;BRA;62;-8;0
+482;Nam Hoang Ly;VIE;62;-8;0
+483;Niels Lootsma;NED;62;-29;-6
+484;Andrea Basso;ITA;62;-9;0
+485;Eduardo Struvay;COL;62;-9;0
+486;Jordi Samper-Montana;ESP;61;-7;0
+487;Nerman Fatic;BIH;61;-7;0
+488;Ben Patael;ISR;61;-7;0
+489;Yusuke Takahashi;JPN;61;-7;0
+490;Benjamin Lock;ZIM;61;-6;0
+491;Calvin Hemery;FRA;60;-6;0
+492;Genaro Alberto Olivieri;ARG;60;7;2
+493;Riccardo Balzerani;ITA;60;-5;0
+494;Manuel Pena Lopez;ARG;60;-5;0
+495;Lorenzo Musetti;ITA;59;-5;0
+496;Rayane Roumane;FRA;59;-5;0
+497;Albano Olivetti;FRA;59;-5;0
+498;Pavel Nejedly;CZE;59;-4;0
+499;Cheong-Eui Kim;KOR;59;-6;0
+500;Alejandro Gonzalez;COL;59;-5;0
+501;Brandon Holt;USA;58;-5;0
+502;Sergio Gutierrez-Ferrol;ESP;58;-5;0
+503;Jared Hiltzik;USA;58;-5;0
+504;Gerald Melzer;AUT;57;-3;0
+505;Zizou Bergs;BEL;57;1;2
+506;Nicolae Frunza;ROU;57;17;5
+507;Mariano Kestelboim;ARG;57;-20;-3
+508;Marco Bortolotti;ITA;57;13;4
+509;Joao Monteiro;POR;56;-7;-1
+510;Rafael Matos;BRA;56;-3;1
+511;Danylo Kalenichenko;UKR;55;-6;0
+512;Dejan Katic;SRB;55;-3;0
+513;Carlos Gomez-Herrera;ESP;54;-1;0
+514;Filip Cristian Jianu;ROU;54;127;20
+515;Aldin Setkic;BIH;54;-2;0
+516;Harrison Adams;USA;54;0;1
+517;Jumpei Yamasaki;JPN;54;0;1
+518;Johan Nikles;SUI;53;0;0
+519;Giovanni Fonio;ITA;53;1;0
+520;Tobias Simon;GER;53;2;0
+521;Evan Zhu;USA;52;-11;-3
+522;Alessandro Petrone;ITA;52;5;2
+523;Yshai Oliel;ISR;51;30;6
+524;Jaume Pla Malfeito;ESP;51;-13;-4
+525;Marko Tepavac;SRB;50;77;12
+526;Ergi Kirkin;TUR;50;-23;-6
+527;Ryan Nijboer;NED;50;19;3
+528;Yu Hsiou Hsu;TPE;50;-4;0
+529;Nick Hardt;DOM;50;-4;0
+530;Kai Wehnelt;GER;50;-4;0
+531;Sebastian Baez;ARG;49;0;0
+532;Takuto Niki;JPN;49;0;0
+533;Jesper De Jong;NED;49;64;10
+534;Adam Moundir;SUI;49;-1;0
+535;Gabriel Petit;FRA;49;-1;0
+536;Tiago Cacao;POR;49;15;3
+537;Vladyslav Manafov;UKR;49;1;1
+538;Mark Whitehouse;GBR;49;-8;-1
+539;Seong Chan Hong;KOR;48;-3;0
+540;Alexandar Lazarov;BUL;48;-21;-5
+541;Andrew Watson;GBR;48;-2;0
+542;Thomas Fancutt;AUS;48;-5;0
+543;Robert Strombachs;GER;48;-3;0
+544;Simon Carr;IRL;48;-3;0
+545;Luca Castelnuovo;SUI;48;-2;0
+546;Bruno Sant'Anna;BRA;48;-4;0
+547;Davide Galoppini;ITA;48;-3;0
+548;Facundo Diaz Acosta;ARG;47;65;10
+549;Stefan Kozlov;USA;47;-4;0
+550;Pietro Rondoni;ITA;47;4;2
+551;Ricardo Rodriguez-Pace;VEN;47;28;6
+552;Dominik Boehler;GER;47;4;2
+553;Strong Kirchheimer;USA;47;-3;1
+554;Joao Pedro Sorgi;BRA;47;-25;-3
+555;Mauricio Echazu;PER;47;-27;-3
+556;Wilson Leite;BRA;47;8;3
+557;Sam Riffice;USA;46;-9;0
+558;Sidharth Rawat;IND;46;;
